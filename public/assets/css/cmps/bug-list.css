@@ -1,0 +1,17 @@
+.bug-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
+
+.bug-list li {
+    max-width: 200px;
+}
+
+.remove-btn {
+    position: absolute;
+    top: 5px;
+    right: -8px;
+    margin-right: 10px;
+}

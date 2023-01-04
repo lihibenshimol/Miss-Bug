@@ -1,0 +1,30 @@
+
+
+/* @font-face {
+    font-family: roboto;
+    src: url(../../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: roboto-thin;
+    src: url(../../fonts/Roboto-Thin.ttf);
+} */
+
+@font-face {
+    font-family: lato-light;
+    src: url(../../fonts/Lato-Light.ttf);
+}
+
+@font-face {
+    font-family: lato-bold;
+    src: url(../../fonts/Lato-bold.ttf);
+}
+
+@font-face {
+    font-family: fa;
+    src: url(../../fonts/font-awsome/fa-solid-900.ttf);
+}
+
+.fa::before {
+    font-family: fa;
+}

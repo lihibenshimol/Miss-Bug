@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    max-width: 100vw;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-color: var(--main-bg-color);
+    font-family: 'lato-light';
+    text-align: center;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: .5em 0 .5em;
+    font-family: 'lato-bold';
+}
+
+p {
+    margin: 0 0 1em;
+    font-family: 'lato-light';
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+    font-family: 'lato-light';
+}
+
+input {
+    border: none;
+    border-bottom: solid 1px rgba(65, 65, 65, 0.686);
+    padding: 10px;
+}
+
+input:focus {
+    outline: 1px rgb(146, 146, 146);
+}
+
+button {
+    border-radius: 2px;
+    border: none;
+    font-size: .9em;
+    cursor: pointer;
+    padding: 5px;
+    transition: .5s;
+}
+
+button:hover {
+    box-shadow: rgb(0 0 0 / 29%) 0px 1px 2px inset;
+}

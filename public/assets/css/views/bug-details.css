@@ -1,0 +1,10 @@
+.bug-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 300px;
+}
+
+.bug-details a:hover {
+color: green;
+}

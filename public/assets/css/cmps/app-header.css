@@ -1,0 +1,39 @@
+.app-header {
+    background-color: var(--header-footer-bg);
+    color: #7f4f24;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.app-header .header-logo {
+    width: 50px;
+    height: 50px;
+}
+
+nav a{
+    color: var(--links);
+    display: inline-block;
+    margin: 3px;
+    padding: 10px;
+    border-bottom: 1px solid transparent;
+    text-decoration: none;
+    justify-content: center;
+}
+
+
+nav a:hover{
+    border-bottom: 1px solid #7f4f24;
+}
+
+nav a:active {
+    color: var(--links-active);
+}
+
+
+.main-title {
+    text-align: center;
+    color:rgba(36, 7, 7, 0.685);
+    font-family: Arial, Helvetica, sans-serif;
+}

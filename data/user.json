@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "vhsW7",
+    "fullname": "lihi",
+    "username": "lihi",
+    "password": "lihi",
+    "isAdmin": true
+  },
+  {
+    "_id": "SAv3V",
+    "fullname": "Kimberly Nguyen",
+    "username": "kim",
+    "password": "kim"
+  },
+  {
+    "_id": "vOoBD",
+    "fullname": "emily smith",
+    "username": "emily",
+    "password": "emily"
+  }
+]

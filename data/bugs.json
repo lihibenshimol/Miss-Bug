@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "765wer",
+    "title": "Missing data in report",
+    "severity": "9",
+    "createdAt": 1942107359454,
+    "description": "When generating a customer report, some data is missing. It appears that certain customer records are not being included in the report.",
+    "labels": [
+      "report",
+      "data",
+      "customer"
+    ],
+    "creator": {
+      "_id": "u105",
+      "fullname": "Michael Brown"
+    }
+  },
+  {
+    "_id": "432fgh",
+    "title": "Incorrect product information",
+    "severity": "5",
+    "createdAt": 2042107359454,
+    "description": "Some product information is incorrect on the website. The descriptions and/or prices for certain products do not match the actual products.",
+    "labels": [
+      "product",
+      "information",
+      "incorrect"
+    ],
+    "creator": {
+      "_id": "u106",
+      "fullname": "Emily Smith"
+    }
+  },
+  {
+    "_id": "189sdk",
+    "title": "Error when saving changes to order",
+    "severity": "8",
+    "createdAt": 2142107359454,
+    "description": "An error message is displayed",
+    "labels": [
+      "information",
+      "data",
+      "report"
+    ],
+    "creator": {
+      "_id": "u106",
+      "fullname": "Emily Smith"
+    }
+  },
+  {
+    "_id": "210ikj",
+    "title": "Incorrect calculation in inventory management system",
+    "severity": "10",
+    "createdAt": 2242107359454,
+    "description": "The inventory management system is displaying incorrect quantities for some items. The actual quantity in stock does not match the quantity shown in the system.",
+    "labels": [
+      "inventory",
+      "calculation",
+      "management"
+    ],
+    "creator": {
+      "_id": "u107",
+      "fullname": "Puki Ba"
+    }
+  },
+  {
+    "_id": "903nmd",
+    "title": "Error when adding new product",
+    "severity": "7",
+    "createdAt": 2342107359454,
+    "description": "An error message is displayed when attempting to add a new product to the website. The message states that the action could not be completed due to an unknown error.",
+    "labels": [
+      "product",
+      "add",
+      "error"
+    ],
+    "creator": {
+      "_id": "u108",
+      "fullname": "Kimberly Nguyen"
+    }
+  },
+  {
+    "_id": "491klm",
+    "title": "Incorrect display of product images",
+    "severity": "6",
+    "createdAt": 2442107359454,
+    "description": "Some product images are not displaying correctly on the website. The images are either distorted or not showing up at all.",
+    "labels": [
+      "images",
+      "display",
+      "product"
+    ],
+    "creator": {
+      "_id": "u109",
+      "fullname": "Puki Ba"
+    }
+  },
+  {
+    "_id": "732sjd",
+    "title": "Login issue for certain users",
+    "severity": "8",
+    "createdAt": 2542107359454,
+    "description": "Some users are unable to log in to their accounts. An error message is displayed stating that the username or password is incorrect, even though the user is certain that their login information is correct.",
+    "labels": [
+      "login",
+      "error",
+      "user"
+    ],
+    "creator": {
+      "_id": "u110",
+      "fullname": "Kimberly Nguyen"
+    }
+  },
+  {
+    "_id": "456uyt",
+    "title": "Error when updating product information",
+    "severity": "9",
+    "createdAt": 2642107359454,
+    "description": "An error message is displayed when attempting to update the information for a product. The message states that the action could not be completed due to an unknown error.",
+    "labels": [
+      "product",
+      "update",
+      "error"
+    ],
+    "creator": {
+      "_id": "u111",
+      "fullname": "Puki Ba"
+    }
+  },
+  {
+    "title": "hey",
+    "severity": "3",
+    "description": "yo",
+    "_id": "tdHMn",
+    "createdAt": 1672852068469,
+    "creator": {
+      "_id": "u101",
+      "username": "puki",
+      "fullname": "Puki Ja",
+      "password": "secret1",
+      "score": 100
+    }
+  },
+  {
+    "title": "lihis",
+    "severity": "3",
+    "description": "llllbug",
+    "_id": "lBtlZ",
+    "createdAt": 1672852887345,
+    "creator": {
+      "_id": "vhsW7",
+      "fullname": "lihi",
+      "username": "lihi",
+      "password": "lihi"
+    }
+  },
+  {
+    "title": "emilys bug",
+    "severity": "6",
+    "description": "testing one two",
+    "_id": "xsYkk",
+    "createdAt": 1672859960170,
+    "creator": {
+      "_id": "vOoBD",
+      "fullname": "emily smith",
+      "username": "emily",
+      "password": "emily"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+.bug-preview {
+    /* background-color: #e49ea0; */
+    /* color: whitesmoke; */
+    border-radius: .2em;
+    margin: 5px;
+    text-align: left;
+    padding: 5px 25px;
+    min-width: 180px;
+    position: relative;
+    font-size: 0.87rem;
+}
+
+.bug-preview:hover {
+    background-color: #7f4e2442;
+}
+.bug-preview a {
+    color: var(--links)
+}
+
+.bug-preview .urgent {
+    color: red;
+    font-weight: 600;
+}
+
+.bug-preview .light {
+    color: green;
+}
+

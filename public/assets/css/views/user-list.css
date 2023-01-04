@@ -1,0 +1,12 @@
+.user-list {
+    font-family: 'lato-light';
+
+}
+
+.user-list ul {
+    gap: 25px;
+    line-height: 1.7;
+    word-spacing: 5px;
+    justify-content: center;
+    text-align: left;
+}
